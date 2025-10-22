@@ -10,7 +10,7 @@
 
 ![Pipeline](./assets/teaser.png)
 > [MoE-Loco: Mixture of Experts for Multitask Locomotion](https://arxiv.org/abs/2503.08564) \
-> Runhan Huang, Shaoting Zhu, Yilun Du, Hang Zhao \
+> Runhan Huang*, Shaoting Zhu*, Yilun Du, Hang Zhao \
 > IROS 2025
 
 ## Acknowlegement
