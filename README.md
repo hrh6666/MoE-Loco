@@ -4,7 +4,7 @@
 
 # MoE-Loco: Mixture of Experts for Multitask Locomotion
 
-[![Paper](https://img.shields.io/badge/arXiv-2409.07409-brightgreen)](https://arxiv.org/abs/2503.08564) [![Conference](https://img.shields.io/badge/ICRA-2025-blue)](https://www.iros25.org/) [![Project WebPage](https://img.shields.io/badge/Project-webpage-%23fc4d5d)](https://moe-loco.github.io/) [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Paper](https://img.shields.io/badge/arXiv-2503.08564-brightgreen)](https://arxiv.org/abs/2503.08564) [![Conference](https://img.shields.io/badge/IROS-2025-blue)](https://www.iros25.org/) [![Project WebPage](https://img.shields.io/badge/Project-webpage-%23fc4d5d)](https://moe-loco.github.io/) [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 </div>
 
