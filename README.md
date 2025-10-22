@@ -15,7 +15,7 @@
 
 ## Acknowlegement
 https://github.com/leggedrobotics/legged_gym<br>
-https://github.com/ZiwenZhuang/parkour
+https://github.com/ZiwenZhuang/parkour<br>
 https://github.com/zst1406217/robust_robot_walker
 
 ## Citation
